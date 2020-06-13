@@ -1,3 +1,5 @@
+;Modified by Sheeva for Path of Exile support
+
 #Persistent
 #SingleInstance force
 
