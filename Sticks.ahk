@@ -613,12 +613,8 @@ Numpad0::
 	}
 return
 
-NumpadDot::
-	Send {LCtrl Down}
-	Sleep 10
+^NumpadDot::
 	MouseClick, Left
-	Sleep 10
-	Send {LCtrl Up}
 return
 
 XButton2::
